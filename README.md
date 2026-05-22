@@ -29,3 +29,8 @@ Enter choice: 2
 +-----+------+-----+--------------------------------+------------+--------------------+
 |101  |alex  |20   |computer Science & Egineerign   |78945XXXXX  |alex1234@gmail.com  |
 +-----+------+-----+--------------------------------+------------+--------------------+
+
+
+
+When you wnat to try run this program you need to download these exe file
+Note :- This will support on windows 
